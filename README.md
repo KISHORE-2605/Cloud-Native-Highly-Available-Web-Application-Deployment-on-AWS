@@ -118,30 +118,27 @@ Both servers display the same webpage because the website is stored on Amazon EF
 
 ---
 
-# 📷 Project Screenshots
-
 ## 🖥️ Web Server 1 Terminal
 
-![Web Server 1](images/server1-terminal.png)
+<img src="./server1-terminal.png" width="900">
 
 ---
 
 ## 🖥️ Web Server 2 Terminal
 
-![Web Server 2](images/server2-terminal.png)
+<img src="./server2-terminal.png" width="900">
 
 ---
 
 ## 🌐 Website Output (Server 1)
 
-![Website Output 1](images/website-output1.png)
+<img src="./website-output1.png" width="900">
 
 ---
 
 ## 🌐 Website Output (Server 2)
 
-![Website Output 2](images/website-output2.png)
-
+<img src="./website-output2.png" width="900">
 ---
 
 # 📁 Project Structure
